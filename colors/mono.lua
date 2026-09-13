@@ -1,1 +1,1 @@
---
+require("mono").setup()
