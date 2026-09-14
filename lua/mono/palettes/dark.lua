@@ -21,7 +21,7 @@ return {
 	border = "#444444",
 	line_nr = "#4e4e4e",
 	cursor_line = "#141414",
-	selection = "#3a3a3a",
+	selection = "#444444",
 
 	error = "#ffffff",
 	warn = "#cccccc",
